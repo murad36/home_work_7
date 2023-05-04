@@ -1,0 +1,15 @@
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\obj\Debug\net7.0\home_work_7.csproj.AssemblyReference.cache
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\obj\Debug\net7.0\home_work_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\obj\Debug\net7.0\home_work_7.AssemblyInfoInputs.cache
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\obj\Debug\net7.0\home_work_7.AssemblyInfo.cs
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\obj\Debug\net7.0\home_work_7.csproj.CoreCompileInputs.cache
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\bin\Debug\net7.0\home_work_7.exe
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\bin\Debug\net7.0\home_work_7.deps.json
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\bin\Debug\net7.0\home_work_7.runtimeconfig.json
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\bin\Debug\net7.0\home_work_7.dll
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\bin\Debug\net7.0\home_work_7.pdb
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\obj\Debug\net7.0\home_work_7.dll
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\obj\Debug\net7.0\refint\home_work_7.dll
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\obj\Debug\net7.0\home_work_7.pdb
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\obj\Debug\net7.0\home_work_7.genruntimeconfig.cache
+C:\Users\Пушка\Desktop\home_work_7\home_work_7\obj\Debug\net7.0\ref\home_work_7.dll
